@@ -1,0 +1,4 @@
+domain\Persona.class
+datos\Conexion.class
+com\diaz\manejojdbc\ManejoJDBC.class
+datos\PersonaJDBC.class
